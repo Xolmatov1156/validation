@@ -52,7 +52,6 @@ function App() {
             )}
           </label>
 
-          {/* Email Input */}
           <label>
             <input
               type="email"
